@@ -27,9 +27,10 @@ Skin cancer, particularly melanoma, poses significant health risks. Early and ac
 
 The dataset includes dermoscopic images of skin lesions and patient metadata:
 
-- **Age**
-- **Sex**
-- **Anatomical site**
+- **Image file**
+- **Skin Tone**
+- **disease**
+- **Malignant**
 
 *Note: The dataset source isn't included. Consider using public datasets like [ISIC Archive](https://www.isic-archive.com/) or [HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000).*
 
