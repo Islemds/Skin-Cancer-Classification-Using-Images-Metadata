@@ -32,7 +32,7 @@ The dataset includes dermoscopic images of skin lesions and patient metadata:
 - **disease**
 - **Malignant**
 
-*Note: The dataset source isn't included. Consider using public datasets like [ISIC Archive](https://www.isic-archive.com/) or [HAM10000](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000).*
+*The dataset source: [ddi dataset]([https://www.isic-archive.com/](https://ddi-dataset.github.io/))*
 
 ## Methodology
 
@@ -101,7 +101,5 @@ To evaluate model performance:
 ## Future Work
 
 - Use additional metadata (e.g., patient history)
-- Try advanced models (EfficientNet, Vision Transformers)
-- Add cross-validation
 - Deploy as a web app for clinical use
 
